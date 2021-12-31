@@ -1,6 +1,6 @@
 {
   "name": "generaljs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "John FitzGerald\r General Purpose JavaScript Project",
   "main": "app.js",
   "scripts": {
@@ -23,7 +23,6 @@
     "jquery": "^3.4.1",
     "shelljs": "^0.8.3",
     "socket.io": "^2.2.0",
-    "three": "^0.102.1"
-  },
-  "devDependencies": {}
+    "three": "^0.136.0"
+  }
 }

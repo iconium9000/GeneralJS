@@ -1,2 +1,3 @@
 projects/05_games/01_blockade/save_file.json
 projects/05_games/02_blockade/save_file.json
+node_modules/*
